@@ -13,9 +13,9 @@ Here you find the DOS client only; not the ethersrv (server) files.
 
 ------------------------------------------------------------------
 
-INSTCHK.EXE is a simple EtherDFS install check.
+INSTCHK.EXE is a simple EtherDFS installation check.
 
-I use this small tool in some batch files - it's not needed to run EtherDFS.
+I use this small tool in some batch files - you don't need it to run EtherDFS.
 
 INSTCHK has just one (optional) argument: '-b' for batch mode (quiet mode), i.e. errorlevel only (no output to screen).
 Errorlevel is 1, if the client is not loaded, 0 if loaded.

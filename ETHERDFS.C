@@ -5,11 +5,11 @@
  * Copyright (C) 2017, 2018 Mateusz Viste
  *
  *
- * This is a special version (only) for DOS 3.10 - 3.30
+ * This is a special version (only) for DOS 3.20 - 3.30
  *
  * forked from EtherDFS v0.8.2
  *
- * adapted to (MS-)DOS 3.10-3.30 (C) 5/2023 Frank Haeseler
+ * adapted to (MS-)DOS 3.20-3.30 (C) 5/2023 Frank Haeseler
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),

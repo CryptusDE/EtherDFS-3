@@ -20,3 +20,13 @@ I use this small tool in some batch files - you don't need it to run EtherDFS.
 INSTCHK has just one (optional) argument: '-b' for batch mode (quiet mode), i.e. errorlevel only (no output to screen).
 Errorlevel is 1, if the client is not loaded, 0 if loaded.
 
+------------------------------------------------------------------
+
+EDFSDET.COM (EtherDFS detection tool) is an improved, compact version of INSTCHK.EXE.
+
+Besides the installation check it lists mapped drives, if EtherDFS is loaded.
+
+Of course EDFSDET.COM works with both versions of EtherDFS: With the original client for DOS 5+ by Mateusz Viste and with EtherDFS-3.
+
+EDFSDET.COM has just one (optional) argument: '-q' for quiet mode (batch mode), i.e. errorlevel only (no output to screen).
+Errorlevel is 1, if the client is not loaded, 0 if loaded.
